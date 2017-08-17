@@ -80,5 +80,6 @@ public class VendingMachineTest {
     //DDC -> C czy stac mnie na ten produkt
     //DDQA ->A
     //QQQ
+    //
 
 }
