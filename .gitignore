@@ -47,9 +47,5 @@ fabric.properties
 .idea/modules.xml
 =======
 .idea/
-BubbleSortTest/.idea/inspectionProfiles/
-BubbleSortTest/out/
-Calculator/.idea/inspectionProfiles/
-FizzBuzz/.idea/inspectionProfiles/
 .gitignore
 
